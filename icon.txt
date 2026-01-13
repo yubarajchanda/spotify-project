@@ -1,0 +1,9 @@
+hearth icon link=
+
+mic icon link=<i class="fa-light fa-microphone-stand"></i>
+
+speaker icon=<i class="fa-solid fa-volume-high"></i>
+
+youtube icon =<i class="fa-brands fa-youtube"></i>
+
+ 
